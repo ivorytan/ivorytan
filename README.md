@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 This is Ivory.
 
 <!--
 **ivorytan/ivorytan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌍 I'm based in Providence, US
+- 🖥️ See my portfolio at (My Website)[https://ivorytan.github.io/]
+- 🔭 I’m currently looking for new grad SDE opportunities
+- 📫 How to reach me: ivorymengjue@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: To be discovered
