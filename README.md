@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌍 I'm based in Providence, US
-- 🖥️ See my portfolio at (My Website)[https://ivorytan.github.io/]
+- 🖥️ See my portfolio at [My Website](https://ivorytan.github.io/)
 - 🔭 I’m currently looking for new grad SDE opportunities
 - 📫 How to reach me: ivorymengjue@gmail.com
 - 😄 Pronouns: She/Her
